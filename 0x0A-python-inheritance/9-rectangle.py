@@ -25,4 +25,4 @@ class Rectangle(prevRectangle):
 
     def __str__(self):
         """This method return the representation of the Rectangle"""
-        return '[Rectangle] {:d}/{:d}'.format(self.__width, self.__height
+        return '[Rectangle] {:d}/{:d}'.format(self.__width, self.__height)
