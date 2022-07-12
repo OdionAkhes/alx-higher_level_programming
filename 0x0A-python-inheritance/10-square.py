@@ -1,7 +1,4 @@
-
-#!/usr/bin/python3
-"""
-This program create a Square from a Rectangle
+s program create a Square from a Rectangle
 """
 
 
